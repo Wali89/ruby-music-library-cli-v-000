@@ -37,7 +37,4 @@ class Artist
     songs.map { |s| s.genre }.uniq
   end
 
-
-
-
 end
